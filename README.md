@@ -6,7 +6,7 @@ comment: what kind of learning you were referring to in the last sentence? Provi
 
 The notebook in this tutorial will show you how to apply this technique to classifying penguins, diabetes patients, and books to display its strength and weaknesses.
 
-
+## Data sources
 | Dataset      | Source    | Licence |
 |:-------------|:----------|:--------|
 | diabetes.csv | [Pima Indian Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) | CC0: Public Domain |
